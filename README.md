@@ -1,6 +1,6 @@
 # JS Exercise 
 
-Exercise to using JS.
+Exercise to learn how to use JS.
 
 ## 🚀 Live Demo
 
